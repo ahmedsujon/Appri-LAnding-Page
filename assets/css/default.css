@@ -1,0 +1,48 @@
+    .blue-grad-bg {
+        background-image: -moz-linear-gradient(-51deg, rgb(47, 50, 212) 0%, rgb(113, 66, 247) 100%);
+        background-image: -webkit-linear-gradient(-51deg, rgb(47, 50, 212) 0%, rgb(113, 66, 247) 100%);
+    }
+    
+    .pt-40 {
+        padding-top: 40px;
+    }
+    
+    .pt-150 {
+        padding-top: 150px;
+    }
+    
+    .mt-40 {
+        margin-top: 40px;
+    }
+    
+    .pb-150 {
+        padding-bottom: 150px;
+    }
+    
+    .pb-130 {
+        padding-bottom: 130px;
+    }
+    
+    .pb-40 {
+        padding-bottom: 40px;
+    }
+    
+    .pl-15 {
+        padding-left: 15px;
+    }
+    
+    .mb-40 {
+        margin-bottom: 40px;
+    }
+    
+    .mb-30 {
+        margin-bottom: 30px;
+    }
+    
+    .mb-60 {
+        margin-bottom: 60px;
+    }
+    
+    .mt-40px {
+        margin-top: 40px;
+    }
